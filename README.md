@@ -13,7 +13,6 @@ Fetches changes from the remote repository (downloads new commits and updates fr
 Merges those fetched changes into your current local branch.
 If there are any new changes on GitHub, git pull will download them and integrate them into your local files. If your local repository is already up-to-date, it will simply say "Already up to date."
 
-
 Recommended Workflow for Collaborating / Keeping Sync:
 Before you start working each day (or before making significant changes): git pull to get the latest changes from GitHub.
 When you finish a set of changes locally:
